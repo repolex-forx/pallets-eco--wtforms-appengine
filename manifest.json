@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": "wtforms-appengine",
+  "versions": [
+    {
+      "commit": "230da3db8170b526322ee9b520ba23bd9e90ddac",
+      "parsed_at": "2026-10-11T01:55:59.343533+00:00",
+      "filetree": "filetree/230da3db8170b526322ee9b520ba23bd9e90ddac.nq.gz",
+      "blobs": [
+        "blob/5867bbd9aa6ad3b752f8158ece0a6615bd30d176.nq.gz",
+        "blob/3691b712b46ec1f5d01ee582f67f30fc2957d3cc.nq.gz",
+        "blob/5fa1225ad7bafc74ac032aae9cdf42eeef8dda49.nq.gz",
+        "blob/738534c83caa118cc9d9a93758bb22e2167aa3fd.nq.gz",
+        "blob/532b1b587cf724c2c1985fee90294f0653302771.nq.gz",
+        "blob/0b338f70e64ccdcc2c031faf77348cc2eb19522e.nq.gz",
+        "blob/9b0851f36c6346135169f85e279f739f5b3ffa1c.nq.gz",
+        "blob/652eed5ffc9401731e4e089b31035c13f1269aa5.nq.gz",
+        "blob/6f6abc5eaec5ecb6dc7475d61cefd4e9f007854e.nq.gz",
+        "blob/a0bfa03a04b61f2503212b039814999021f6baa2.nq.gz",
+        "blob/a207fe47aa41f41729600ad0eaca85b39c9a7d9a.nq.gz",
+        "blob/2602a29fe4af8838bdd84047b9e1b5c8da1cb4c7.nq.gz",
+        "blob/d65b240a7b038437ccf2ef630f62c30e90a7a7dc.nq.gz",
+        "blob/3b6a16dc97ee8b7ada398a5835418d061aa6d50d.nq.gz",
+        "blob/19b243360c85e75dca09559d4d465ddf2de12a13.nq.gz",
+        "blob/7b22498b19280fe1b67f4c210d68c7255c29bdd6.nq.gz",
+        "blob/daf72c266ec7d7f937cac2db461fd06f58c306d5.nq.gz",
+        "blob/0c6b801dc678eec21beb9830c3bcebdd28f9d596.nq.gz",
+        "blob/b93bc2c134d2aed498a525aad898a61556729d05.nq.gz",
+        "blob/8d1daa33b741e5d01afa391a5d2de52af3ff07de.nq.gz",
+        "blob/7c964b49e2db4d6983a3d8d56509162de9110035.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ed2ab0f680e34c586cc5cc272b9512d28e284804.nq.gz",
+        "blob/5b852f82496e374d6f726c7f1f32bc4bdebde0ac.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz",
+        "blob/ba8b9286d097e3ea0992276e8bd20e67609a2342.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
